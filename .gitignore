@@ -64,3 +64,6 @@ venv.bak/
 
 #
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+# Ignore large dataset files
+data/*.csv
